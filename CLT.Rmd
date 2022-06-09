@@ -97,3 +97,5 @@ densityplot(x.avg,main="sample size 36")
 sample36mean<-mean(x.avg)
 sample36sd<-sd(x.avg)
 ```
+
+The mean for this sample is `r sample36mean` and the standard deviation is `r sample36sd`.
