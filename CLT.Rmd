@@ -62,6 +62,7 @@ sample9mean<-mean(x.avg)
 sample9sd<-sd(x.avg)
 ```
 
+ The mean for this sample is `r sample9mean` and the standard deviation is `r sample9sd`.
 
 ```{r}
 numb = 16
