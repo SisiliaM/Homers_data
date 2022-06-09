@@ -62,7 +62,7 @@ sample9mean<-mean(x.avg)
 sample9sd<-sd(x.avg)
 ```
 
- The mean for this sample is `r sample9mean` and the standard deviation is `r sample9sd`.
+ The mean for this sample is `r sample9mean` and the standard deviation is `r sample9sd`. Looking at the graph you can see that there is 4 small bumps. The small bumps are visuals of how the data shifts.
 
 ```{r}
 numb = 16
